@@ -1,2 +1,2 @@
 language: cpp
-script: ./test2
+script: make
