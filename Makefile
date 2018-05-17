@@ -1,2 +1,2 @@
 hello: test.cpp
-	g++ test2.cpp -o test2
+	g++ test.cpp -o test2
