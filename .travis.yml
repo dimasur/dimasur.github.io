@@ -1,2 +1,2 @@
 language: cpp
-script: sudo ./test2
+script: make; ./test2
